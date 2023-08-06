@@ -56,6 +56,6 @@ function Navbar({ setIsLoggedIn }) {
       <button onClick={handleLogout}>Logout</button>
     </div>
   );
-}
+};
 
 export default Navbar;
